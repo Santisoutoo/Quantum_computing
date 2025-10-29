@@ -1,0 +1,16 @@
+[project]
+name = "computacion-cuantica-s07"
+version = "0.1.0"
+description = "Práctica de Computación Cuántica - Puertas Multiqúbit"
+authors = [
+    {name = "Tu Nombre", email = "tu.email@example.com"}
+]
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+
+dependencies = [
+    "matplotlib>=3.7.0",
+    "ipykernel",
+    "pyquil"
+]
