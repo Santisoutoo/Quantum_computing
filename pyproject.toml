@@ -12,5 +12,6 @@ license = {text = "MIT"}
 dependencies = [
     "matplotlib>=3.7.0",
     "ipykernel",
-    "pyquil"
+    "pyquil",
+    "pandas"
 ]
