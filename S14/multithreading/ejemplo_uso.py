@@ -1,7 +1,3 @@
-"""
-Ejemplo: Multithreading con PyQuil
-"""
-
 from moneda_cuantica import (
     competicion_secuencial,
     competicion_multithreading,

@@ -1,7 +1,3 @@
-"""
-Ejemplo: Control clásico en PyQuil
-"""
-
 from juego_moneda_trampa import (
     control_simple,
     copiar_bit,
