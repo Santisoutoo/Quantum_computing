@@ -1,13 +1,4 @@
-# Requisitos para la Práctica S14 - Conceptos Avanzados de PyQuil
-
-# PyQuil - Framework de computación cuántica de Rigetti
 pyquil>=4.0.0
-
-# NumPy - Operaciones numéricas
 numpy>=1.20.0
-
-# Matplotlib - Visualización (opcional, para análisis)
 matplotlib>=3.3.0
-
-# SciPy - Análisis estadístico (opcional)
 scipy>=1.7.0
